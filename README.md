@@ -8,4 +8,4 @@ The URL to create the API is: https://www.yelp.com/developers
 
 After creating an account, an API Key will be generated for our application. In this case is using the Python language. All the REST endpoints are allowed to do the GET method.
 
-The project was built wirh python 3.7.
+There is a guide explaining in detailed at https://mariogordon.hashnode.dev/get-business-data-with-yelp-api-and-python
